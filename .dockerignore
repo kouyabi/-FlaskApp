@@ -1,0 +1,29 @@
+# Environnement virtuel
+venv/
+env/
+
+# Cache Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Fichiers IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Fichiers de logs
+*.log
+
+# Fichiers Git
+.git/
+.gitignore
+
+# Fichiers de test
+test_*.py
+
+# Fichiers temporaires
+*.tmp
